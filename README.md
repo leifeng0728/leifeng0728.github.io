@@ -1,5 +1,5 @@
-# SeekPassword
+# encrypt-passowrd
 
-SeekPassword是一款用于实现密码记忆的软件。
+encrypt-password是Enigma项目中的密码记忆工具。
 
-https://jhgzy.github.io/SeekPassword
+https://leifeng0728.github.io
